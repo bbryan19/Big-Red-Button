@@ -1,0 +1,81 @@
+button {
+    padding: 100px 100px;
+    border-radius: 50%;
+    top: 50%;
+    margin-top: -102px;
+    margin-left: -102px;
+}
+.buttonBorder {
+    border: 2px round solid black;
+}
+* {
+    background-color: black;
+}
+.center {
+    position: absolute;
+    left: 50%;
+}
+#title {
+    top: 25%;
+    margin-top: -18px;
+    color: red;
+    margin-left: -173.93px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#blueTitle{
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 25%;
+    margin-top: -18px;
+    margin-left: -183.705px;
+}
+#text {
+    top: 75%;
+    margin-left: -186.19px;
+    margin-top: -10.8px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button:focus {
+    outline: none;
+}
+#button {
+    background-color: red;
+}
+#blue {
+    background-color: blue;
+}
+#blackTitle{
+    top: 25%;
+    margin-top: -18px;
+    color: black;
+    margin-left: -185.495px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.small {
+    padding: 10px 10px;
+    margin-top: -12px;
+    margin-left: -12px;
+}
+.move{
+    position: absolute;
+    top: 15%;
+    left: 10%;
+}
+.otherMove{
+    position: absolute;
+    top: 92%;
+    left: 35%;
+    padding: 50px 50px;
+}
+#smallTitle {
+    top: 25%;
+    margin-top: -18px;
+    color: red;
+    margin-left: -81.375px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+.invisible {
+    border: none;
+}
